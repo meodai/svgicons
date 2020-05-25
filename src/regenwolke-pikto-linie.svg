@@ -1,0 +1,7 @@
+<svg id="regenwolke-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>regenwolke-pikto-linie</title>
+  <path d="M20,2.25A11.5,11.5,0,0,0,8.5,13.13v.62H7.75a7.77,7.77,0,0,0,.75,15.5h31a7.75,7.75,0,0,0,0-15.5H31.75l0-.75A11.63,11.63,0,0,0,20,2.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M12,37,9.75,41c-1.19,2.38-.22,3.82.5,4.25a3.74,3.74,0,0,0,3.5,0c.72-.43,1.7-1.85.5-4.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24,37l-2.25,4c-1.19,2.38-.22,3.82.5,4.25a3.74,3.74,0,0,0,3.5,0c.71-.43,1.7-1.85.5-4.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M36,37l-2.25,4c-1.19,2.38-.22,3.82.5,4.25a3.74,3.74,0,0,0,3.5,0c.71-.43,1.7-1.85.5-4.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

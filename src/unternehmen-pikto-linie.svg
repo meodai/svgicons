@@ -1,0 +1,14 @@
+<svg id="unternehmen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>unternehmen-pikto-linie</title>
+  <rect x="6.75" y="34.25" width="11.5" height="13" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="10.25" y="4.5" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="10.25" y="11.5" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="17.25" y="4.5" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="28" y="20" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="28" y="27" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="35" y="27" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="35" y="20" width="3" height="3" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="24 23.75 6.5 23.75 6.5 0.75 33.75 0.75 33.75 16.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="24" y="16.25" width="23.25" height="31" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="24 47.25 0.75 47.25 0.75 23.75 8 23.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

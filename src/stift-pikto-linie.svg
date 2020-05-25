@@ -1,0 +1,7 @@
+<svg id="stift-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>stift-pikto-linie</title>
+  <polygon points="46.5 9.75 13 43.25 1.5 46.5 4.75 35 38.25 1.5 46.5 9.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="35.75" y1="12" x2="10" y2="37.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="7.5 44.79 1.5 46.5 3.21 40.5 7.5 44.79" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="38.75" y="1.29" width="4.24" height="11.67" transform="translate(6.93 30.99) rotate(-45)" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

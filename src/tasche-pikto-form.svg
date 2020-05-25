@@ -1,0 +1,10 @@
+<svg id="tasche-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>tasche-pikto-form</title>
+  <g>
+    <path d="M2.25.25v47.5h43.5V.25Zm42,46H3.75V1.75h40.5Z" fill="#003cb4"/>
+    <path d="M12.25,9v2a11.75,11.75,0,0,0,23.5,0V9a1.5,1.5,0,1,0-1.5,0v2a10.25,10.25,0,0,1-20.5,0V9a1.5,1.5,0,1,0-1.5,0Z" fill="#003cb4"/>
+    <circle cx="12.5" cy="31.5" r="6.25" fill="#003cb4"/>
+    <rect x="30.25" y="23.25" width="11.5" height="11.5" fill="#003cb4"/>
+    <polygon points="17.68 44.75 32.33 44.75 25 32.54 17.68 44.75" fill="#003cb4"/>
+  </g>
+</svg>

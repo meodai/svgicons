@@ -1,0 +1,10 @@
+<svg id="waage-ausgeglichen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>waage-ausgeglichen-pikto-linie</title>
+  <path d="M47,25a7,7,0,0,1-14,0Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M15,25A7,7,0,0,1,1,25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="0.5" x2="24" y2="46.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="14" y1="46.5" x2="34" y2="46.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47,24H33c0-2,7-19,7-19S47,22,47,24Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M8,5S1,22,1,24H15C15,22,8,5,8,5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="8" y1="3.75" x2="40" y2="3.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

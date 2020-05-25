@@ -1,0 +1,7 @@
+<svg id="system-connect-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>system-connect-pikto-form</title>
+  <g>
+    <path d="M25,36.25c4.35,0,7.77-1.74,9.89-5l-3.78-2.44c-1.27,2-3.32,3-6.11,3a7.75,7.75,0,0,1,0-15.5c3.2,0,5.34,2.78,6.11,4l3.78-2.44c-2.47-3.83-6.07-6-9.89-6a12.25,12.25,0,0,0,0,24.5Z" fill="#003cb4"/>
+    <path d="M1.25,1.25v45.5h45.5V1.25Zm44,44H2.75V2.75h42.5Z" fill="#003cb4"/>
+  </g>
+</svg>

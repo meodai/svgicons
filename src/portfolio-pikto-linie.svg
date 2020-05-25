@@ -1,0 +1,8 @@
+<svg id="portfolio-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>portfolio-pikto-linie</title>
+  <path d="M9,6.25A22.94,22.94,0,0,1,22,1v9.75a13,13,0,0,0-6,2.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M13.75,15.75a13.85,13.85,0,0,0-3,8.25,14,14,0,0,0,2.5,7.75L6,38.5A23,23,0,0,1,6.75,9Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M41.75,39A23.53,23.53,0,0,0,47,25.75H37.25A13.72,13.72,0,0,1,34.75,32Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47,22A23.21,23.21,0,0,0,25.75,1v9.5A13.76,13.76,0,0,1,37.25,22Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M16,34.25a13.85,13.85,0,0,0,8.25,3A14,14,0,0,0,32,34.75L38.75,42a23,23,0,0,1-29.5-.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

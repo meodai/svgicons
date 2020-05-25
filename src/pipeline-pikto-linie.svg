@@ -1,0 +1,12 @@
+<svg id="pipeline-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>pipeline-pikto-linie</title>
+  <g>
+    <path d="M17,29.5a4,4,0,0,0-4,4v12" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M17,19.5a13,13,0,0,0-13,13v13" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M44,45.5v-13a13,13,0,0,0-13-13" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M35,45.5v-12a4,4,0,0,0-4-4" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <path d="M17.5,29.5h13v-13H26V6h8V2.5H14V6h8V16.5H17.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line y1="45.5" x2="17" y2="45.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="31" y1="45.5" x2="48" y2="45.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="einzahlungsschein-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>einzahlungsschein-pikto-form</title>
+  <g>
+    <path d="M0,5.25v37H48v-37Zm23.25,26v9.5H1.5v-34h45v24.5Z" fill="#003cb4"/>
+    <rect x="7.5" y="13" width="17.5" height="1.5" fill="#003cb4"/>
+    <rect x="7.5" y="18.75" width="14.5" height="1.5" fill="#003cb4"/>
+    <rect x="7.5" y="24.5" width="17.5" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

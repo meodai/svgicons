@@ -1,0 +1,8 @@
+<svg id="papierkorb-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>papierkorb-pikto-linie</title>
+  <line x1="16.5" y1="16" x2="16.5" y2="41" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="16" x2="24" y2="41" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="31.25" y1="16" x2="31.25" y2="41" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="8.5 7 10.75 47.25 37 47.25 39.5 7 8.5 7" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="31.25 5.75 31.25 0.75 16.5 0.75 16.5 5.75 5.5 5.75 5.5 10 42.5 10 42.5 5.75 31.25 5.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="warenhaus-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>warenhaus-pikto</title>
+  <polygon points="1 47 1 14 24 1 47 14 47 47 1 47" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <path d="M19,26V22a3.87,3.87,0,0,0-4-4,3.87,3.87,0,0,0-4,4v4" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="7" y="24" width="16" height="17" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

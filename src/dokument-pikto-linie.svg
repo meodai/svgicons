@@ -1,0 +1,8 @@
+<svg id="dokument-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>dokument-pikto-linie</title>
+  <polygon points="6 0.75 30.25 0.75 30.25 12 42 12 42 47.25 6 47.25 6 0.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="15.5" y1="26.25" x2="33" y2="26.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="15.5" y1="32" x2="30" y2="32" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="15.5" y1="37.75" x2="33" y2="37.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="31 0 31 11.25 42.75 11.25 31 0" fill="#00bec8"/>
+</svg>

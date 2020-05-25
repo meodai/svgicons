@@ -1,0 +1,6 @@
+<svg id="positiv-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>positiv-pikto-linie</title>
+  <circle cx="24" cy="24" r="23" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M36,14.5c2.42,4.9,10.75,6,10.75,6C45.28,9.21,35.69,1,24,1A22.32,22.32,0,0,0,2,17.25C2.17,17.34,16.76,25.47,36,14.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M13.5,33A14.77,14.77,0,0,0,24,37.25,14.19,14.19,0,0,0,34.25,33" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

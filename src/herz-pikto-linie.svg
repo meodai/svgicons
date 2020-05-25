@@ -1,0 +1,5 @@
+<svg id="herz-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>herz-pikto-linie</title>
+  <path d="M20,9l2.25-2.25C26.07,2.93,31.11,2.52,35.5,6c4.83,3.83,4.32,11.18.5,15L20,37,4,21C.18,17.18-.33,9.83,4.5,6c4.39-3.48,9.43-3.07,13.25.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M35,44,45,33.75A6.24,6.24,0,0,0,45.25,25c-2.16-2.25-6.59-2.68-9-.25L35,26.2l-1.5-1.45c-2.41-2.43-6.59-2-8.75.25A6.24,6.24,0,0,0,25,33.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

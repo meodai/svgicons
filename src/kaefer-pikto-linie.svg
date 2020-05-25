@@ -1,0 +1,11 @@
+<svg id="kaefer-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kaefer-pikto</title>
+  <line x1="29" y1="9" x2="33" y2="1" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="20" y1="9" x2="16" y2="1" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="35 26 41 23 47 27" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="35 37 41 36 47 43" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="13 26 7 23 1 27" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="13 37 7 36 1 43" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24,8h0A11,11,0,0,1,35,19v0a0,0,0,0,1,0,0H13a0,0,0,0,1,0,0v0A11,11,0,0,1,24,8Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M13,20H35a0,0,0,0,1,0,0V35A11,11,0,0,1,24,46h0A11,11,0,0,1,13,35V20a0,0,0,0,1,0,0Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

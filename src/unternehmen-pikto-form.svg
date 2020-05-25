@@ -1,0 +1,13 @@
+<svg id="unternehmen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>unternehmen-pikto-form</title>
+  <g>
+    <rect x="9.5" y="3.75" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="9.5" y="10.75" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="16.5" y="3.75" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="27.25" y="19.25" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="27.25" y="26.25" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="34.25" y="26.25" width="4.5" height="4.5" fill="#003cb4"/>
+    <rect x="34.25" y="19.25" width="4.5" height="4.5" fill="#003cb4"/>
+    <path d="M34.5,15.5V0H5.75V23H0V48H48V15.5Zm-11.25,31H19v-13H6v13H1.5v-22H23.25Zm0-23.5h-16V1.5H33v14H23.25ZM46.5,46.5H24.75V17H46.5Z" fill="#003cb4"/>
+  </g>
+</svg>

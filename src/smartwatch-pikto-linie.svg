@@ -1,0 +1,7 @@
+<svg id="smartwatch-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>smartwatch-pikto-linie</title>
+  <polygon points="34 6.5 12.75 6.5 13.75 0.75 33 0.75 34 6.5" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="33 47.25 13.75 47.25 12.75 41.5 34 41.5 33 47.25" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="42" y1="16" x2="42" y2="23.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M30.75,41.5H16a10,10,0,0,1-10-10v-15a10,10,0,0,1,10-10H31a9.82,9.82,0,0,1,9.75,10v15A10,10,0,0,1,30.75,41.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

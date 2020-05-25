@@ -1,0 +1,8 @@
+<svg id="kredit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kredit-pikto-linie</title>
+  <path d="M30.5,26a3,3,0,1,0,3,3A3,3,0,0,0,30.5,26Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M20.5,16a3,3,0,1,0,3,3A3,3,0,0,0,20.5,16Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M5,.75H39a5,5,0,0,1,5,5v36.5a5,5,0,0,1-5,5H5a0,0,0,0,1,0,0V.75A0,0,0,0,1,5,.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="5" y="0.75" width="2.5" height="46.5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="17.5" y1="32" x2="33.5" y2="16" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="3"/>
+</svg>

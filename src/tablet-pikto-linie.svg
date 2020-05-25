@@ -1,0 +1,6 @@
+<svg id="tablet-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>tablet-pikto-linie</title>
+  <path d="M5,39.75v-38a1,1,0,0,1,1-1H42a1,1,0,0,1,1,1v38Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="20" y1="5.5" x2="28" y2="5.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M43,41.25v5a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1v-5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="weiteres-konto-eroeffnen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>weiteres-konto-eroeffnen-pikto-linie</title>
+  <line x1="47" y1="38" x2="29" y2="38" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M25,35H1V1H25a5,5,0,0,1,5,5V30A5,5,0,0,1,25,35Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="1" y="1" width="2" height="34" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <circle cx="16" cy="18" r="2" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M21,21a5.69,5.69,0,0,1-5,3,6,6,0,0,1,0-12,5.69,5.69,0,0,1,5,3" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="18" y1="18" x2="23" y2="18" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+  <line x1="38" y1="29" x2="38" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

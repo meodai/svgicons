@@ -1,0 +1,8 @@
+<svg id="strom-nachhaltigkeit-1-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>strom-nachhaltigkeit-1-pikto-linie</title>
+  <path d="M34.5,32.75a5.73,5.73,0,0,1,6-5.75,5.73,5.73,0,0,1,6,5.75V38h-12Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="37.5" y="39" width="1" height="4" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.8"/>
+  <path d="M12.5,34.5V39c0,4.31,2.86,8,7,8s7-3.69,7-8V23c0-4.31,2.86-8,7-8s7,3.69,7,8v4" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M12.5,1c-4.76,3-11,9.44-11,17s6.24,14,11,17c4.76-3,11-9.44,11-17S17.26,4,12.5,1Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="42.5" y="39" width="1" height="4" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.8"/>
+</svg>

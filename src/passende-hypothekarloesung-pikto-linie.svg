@@ -1,0 +1,6 @@
+<svg id="passende-hypothekarloesung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>passende-hypothekarloesung-pikto-linie</title>
+  <path d="M17,1V47H31V1Zm6.25,28L19,25l2-2.25,1.75,1.5,4-5.25,2.5,1.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="1" y="7" width="12" height="34" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="35" y="7" width="12" height="34" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="wahl-hypothekarloesung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>wahl-hypothekarloesung-pikto-linie</title>
+  <g>
+    <polygon points="21.5 22.75 21.5 26.5 26.5 26.5 26.5 22.75 24 21.5 21.5 22.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M17,1V47H31V1ZM29.5,29.5h-11V21L24,18.25,29.5,21Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <rect x="1" y="7" width="12" height="34" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="35" y="7" width="12" height="34" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

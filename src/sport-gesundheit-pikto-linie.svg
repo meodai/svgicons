@@ -1,0 +1,10 @@
+<svg id="sport-gesundheit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>sport-gesundheit-pikto-linie</title>
+  <line x1="1.25" y1="33.75" x2="21.25" y2="33.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="8.25" y1="41.75" x2="28.25" y2="41.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="42" y1="21.75" x2="35.25" y2="21.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="42.94" y1="26.75" x2="36.25" y2="26.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="44.25" y1="31.75" x2="37.25" y2="31.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M43.25,46.75l-34-33,12-12a5,5,0,0,1,6,0,10,10,0,0,0-2,6,8,8,0,0,0,8,8,8.27,8.27,0,0,0,6-3l8,30A4.13,4.13,0,0,1,43.25,46.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M9.25,13.75l2-2L45.5,46a3.47,3.47,0,0,1-2.25,1Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="auszeichnung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>uebersicht-pikto-rgb_auszeichnung-pikto</title>
+  <circle cx="24" cy="18" r="8" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="24 33 30 46 37 39 33 30 30 35 24 33" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="24 33 18 46 11 39 15 30 18 35 24 33" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="24 3 30 1 33 6 39 7 38 13 42 17 38 22 39 28 33 29 30 34 24 32 18 34 15 29 9 28 10 22 6 17 10 13 10 7 15 6 18 1 24 3" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="shop-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>shop-pikto-linie</title>
+  <path d="M40.5,7.75a7.06,7.06,0,0,0-7-7,6.85,6.85,0,0,0-6.75,7" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="20.25 7.75 20.25 18 27.75 18 27.75 36.75 47.25 36.75 47.25 7.75 20.25 7.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="0.75" y="18" width="27" height="29.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M21.25,23.5v1.75a7.06,7.06,0,0,1-7,7,6.85,6.85,0,0,1-7-6.75v-2" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="7.25" cy="23.25" r="0.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.55"/>
+  <circle cx="21.25" cy="23.25" r="0.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.55"/>
+</svg>

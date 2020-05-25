@@ -1,0 +1,7 @@
+<svg id="puzzle-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>puzzle-pikto-linie</title>
+  <path d="M24,1.75V8.5A4.52,4.52,0,0,1,28.5,13,4.31,4.31,0,0,1,24,17.25V24h6.75a4.5,4.5,0,0,0,9,0h6.5V1.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="24 46.25 1.75 46.25 1.75 24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M46.25,24h-6.5a4.5,4.5,0,0,1-9,0H24v6.75a4.5,4.5,0,0,0,0,9v6.5H46.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M1.75,24H8.5A4.52,4.52,0,0,1,13,19.5,4.31,4.31,0,0,1,17.25,24H24V17.25A4.31,4.31,0,0,0,28.5,13,4.52,4.52,0,0,0,24,8.5V1.75H1.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

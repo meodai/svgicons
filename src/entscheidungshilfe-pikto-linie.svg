@@ -1,0 +1,8 @@
+<svg id="entscheidungshilfe-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>entscheidungshilfe-pikto-linie</title>
+  <line x1="26" y1="11" x2="26" y2="31" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="26" y1="0.25" x2="26" y2="3" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="37 11 14 11 11 7 14 3 37 3 37 11" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M15,38l12.25.25A3.63,3.63,0,1,0,27,31H9L1,33V47H29.25L44,39c2-1,3.22-2.94,2.5-5A4.06,4.06,0,0,0,41,32L28.5,38" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="14 24 37 24 40 20 37 16 14 16 14 24" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

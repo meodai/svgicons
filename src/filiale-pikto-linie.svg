@@ -1,0 +1,5 @@
+<svg id="filiale-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>filiale-pikto-linie</title>
+  <polygon points="1 47 1 14 24 1 47 14 47 47 1 47" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <path d="M15.5,21.5A7.48,7.48,0,0,0,8,29c0,4.56,7.5,12.5,7.5,12.5S23,34.2,23,29A7.48,7.48,0,0,0,15.5,21.5Zm0,11A3.5,3.5,0,1,1,19,29,3.5,3.5,0,0,1,15.5,32.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

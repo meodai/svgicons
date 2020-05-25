@@ -1,0 +1,7 @@
+<svg id="boerse-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>boerse-pikto-form</title>
+  <g>
+    <path d="M47,37.75V.5H1V37.75H23.25V46h-9v1.5h19.5V46h-9V37.75ZM2.5,36.25V2h43V36.25Z" fill="#003cb4"/>
+    <polygon points="33 16.01 28 11.01 19 20.01 13.25 14.26 4.63 22.88 8.87 27.12 13.25 22.74 19 28.49 28 19.49 33 24.49 43.37 14.12 39.13 9.88 33 16.01" fill="#003cb4"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="kontoauszug-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kontoauszug-pikto-linie</title>
+  <rect x="25" y="34" width="22" height="9" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10"/>
+  <rect x="1" y="5" width="46" height="38" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="10" y1="15" x2="23.5" y2="15" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="19.75 11 23.75 15 19.75 19" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="23.75" y1="25" x2="10.25" y2="25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="14 29 10 25 14 21" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

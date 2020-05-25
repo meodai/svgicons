@@ -1,0 +1,6 @@
+<svg id="fabrik-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fabrik-pikto-linie</title>
+  <polygon points="39 21 42 0.75 47.25 0.75 47.25 47.25 0.75 47.25 0.75 12.75 20 21 20 13 39 21" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="11.75" y1="46.75" x2="11.75" y2="41.5" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <path d="M16.5,37.5a4.85,4.85,0,0,1-4.75,4.75A4.64,4.64,0,0,1,7.24,37.5C7.24,35,11.75,26,11.75,26S16.5,35,16.5,37.5Z" fill="#00bec8" stroke="#00bec8" stroke-width="1.5"/>
+</svg>

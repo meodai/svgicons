@@ -1,0 +1,7 @@
+<svg id="boerse-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>boerse-pikto</title>
+  <rect x="1.75" y="1.25" width="44.5" height="35.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="37" x2="24" y2="46.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="14.25" y1="46.75" x2="33.75" y2="46.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="6.75 25 13.25 18.5 19 24.25 28 15.25 33 20.25 41.25 12" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="6"/>
+</svg>

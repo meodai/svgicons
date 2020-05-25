@@ -1,0 +1,10 @@
+<svg id="drucker-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>drucker-pikto-linie</title>
+  <polygon points="39.5 27.75 39.5 35.5 8.5 35.5 8.5 27.75 0.75 27.75 0.75 47.25 47.25 47.25 47.25 27.75 39.5 27.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="8.5" y="0.75" width="31" height="34.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <line x1="15.25" y1="24" x2="32.75" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="15.25" y1="12.25" x2="32.75" y2="12.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="15.25" y1="18.25" x2="29.75" y2="18.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="neutrale-person-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>neutrale-person-pikto-linie</title>
+  <path d="M41,46.5s0-15-17-15-17,15-17,15Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M36.5,11C35,5.24,30.25,1,24,1A13.45,13.45,0,0,0,11,11,28.59,28.59,0,0,0,36.5,11Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="14.5" r="13.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

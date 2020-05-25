@@ -1,0 +1,7 @@
+<svg id="ar-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>uebersicht-pikto-rgb_ar-pikto</title>
+  <path d="M15,16.5a10.89,10.89,0,0,1,0,21" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="12" cy="27" r="11" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="27.5" y1="6" x2="34.5" y2="6" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M15,46V2a1,1,0,0,1,1-1H46a1.08,1.08,0,0,1,1,1V46a1.08,1.08,0,0,1-1,1H16A1,1,0,0,1,15,46Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="stempelkarte-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>stempelkarte-pikto-linie</title>
+  <rect x="1" y="1" width="46" height="46" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="8 10 11 13 17 6" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="8 25 11 28 17 21" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="12.5" cy="37.75" r="2.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="34.75" cy="37.75" r="2.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="34.75" cy="24" r="2.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="34.75" cy="10" r="2.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

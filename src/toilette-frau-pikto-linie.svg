@@ -1,0 +1,7 @@
+<svg id="toilette-frau-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>toilette-frau-pikto-linie</title>
+  <line x1="21" y1="30" x2="21" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="27" y1="30" x2="27" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M33,36s-1.48-11.91-2-16c-.28-2.22-.15-6-7-6-6.6,0-6.69,3.64-7,6-.53,4-2,16-2,16Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="6" r="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

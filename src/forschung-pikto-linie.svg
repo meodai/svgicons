@@ -1,0 +1,6 @@
+<svg id="forschung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>forschung-pikto-linie</title>
+  <rect x="18" y="27.75" width="6.75" height="8.25" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M4,47.25H40.75a22.22,22.22,0,0,0,2-9.25,21.07,21.07,0,0,0-14.5-20" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="14.75" y="0.75" width="13.5" height="27" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

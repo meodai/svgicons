@@ -1,0 +1,6 @@
+<svg id="devisen-edelmetalle-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>devisen-edelmetalle-pikto-linie</title>
+  <path d="M24.9,45.5A25.23,25.23,0,0,1,16.5,47a17.1,17.1,0,0,1-7.75-2A14.28,14.28,0,0,1,1,32.5c0-3.11.93-6.66,3.25-11A80.22,80.22,0,0,1,12,10L8.47,1H25l-3,9a78.45,78.45,0,0,1,7.75,11.5A24.68,24.68,0,0,1,33,32.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="12" y1="10" x2="22" y2="10" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M41.75,33H28.25L24,47H46Zm-3,3.5h-4.5v-3H41l2,5.75L40,40Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

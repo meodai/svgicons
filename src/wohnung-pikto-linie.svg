@@ -1,0 +1,12 @@
+<svg id="wohnung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>wohnung-pikto-linie</title>
+  <polygon points="20.25 47.25 20.25 24 33.75 16.25 47.25 24 47.25 47.25 20.25 47.25" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <polyline points="20.25 47.25 0.75 47.25 0.75 8.5 14.25 1 27.75 8.5 27.75 19.5" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <path d="M4.75,11.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M11.75,11.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M4.75,18.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24.75,25.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M31.75,25.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24.75,32.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M31.75,32.75v3h3v-3Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

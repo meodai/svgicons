@@ -1,0 +1,8 @@
+<svg id="buero-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>buero-pikto-form</title>
+  <g>
+    <path d="M37.75,23.25V21.5a2.75,2.75,0,0,0-2-2.63V6.5A1.23,1.23,0,0,0,34.5,5.25h-21A1.23,1.23,0,0,0,12.25,6.5V18.87a2.75,2.75,0,0,0-2,2.63v1.75H1v1.5H3.25V47h1.5V24.75h22.5v16h16V47h1.5V24.75H47v-1.5Zm-3.5-16.5v12H13.75v-12Zm9,32.5H28.75v-6.5h14.5Zm0-8H28.75v-6.5h14.5Z" fill="#003cb4"/>
+    <rect x="34" y="27.25" width="4" height="1.5" fill="#003cb4"/>
+    <rect x="34" y="35.25" width="4" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

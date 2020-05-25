@@ -1,0 +1,8 @@
+<svg id="kontoauszug-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kontoauszug-pikto-form</title>
+  <g>
+    <path d="M0,4.25v39.5H48V4.25Zm1.52,1.5h45V33.5h-22v8.75h-23Z" fill="#003cb4"/>
+    <polygon points="19.22 18.47 20.28 19.53 24.81 15 20.28 10.47 19.22 11.53 21.94 14.25 10 14.25 10 15.75 21.94 15.75 19.22 18.47" fill="#003cb4"/>
+    <polygon points="23.75 24.25 11.81 24.25 14.53 21.53 13.47 20.47 8.94 25 13.47 29.53 14.53 28.47 11.81 25.75 23.75 25.75 23.75 24.25" fill="#003cb4"/>
+  </g>
+</svg>

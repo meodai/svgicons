@@ -1,0 +1,10 @@
+<svg id="fax-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fax-pikto-form</title>
+  <g>
+    <path d="M22.25.25v29.5h25.5V.25Zm24,28H23.75V1.75h22.5Z" fill="#003cb4"/>
+    <path d="M20.82,38c-4.46-1.32-9.39-6.22-10.75-10.68l1.49-5.44L9.89,12.5,0,14.52v.61C0,33.87,14.24,48,33.13,48h.61l1.76-8.72-9.14-3Z" fill="#003cb4"/>
+    <rect x="29" y="8.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="29" y="18.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="29" y="13.25" width="10" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

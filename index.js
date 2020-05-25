@@ -83,7 +83,7 @@ const newFiles = [];
 function optimizeTo(srcPath, destPath) {
   return fs.readFile(srcPath, "utf8", function (err, data) {
     //console.log(`reading ${srcPath}`);
-
+    
     if (err) {
       throw err;
     }
@@ -93,7 +93,7 @@ function optimizeTo(srcPath, destPath) {
     }).then(function (result) {
       fs.writeFile(destPath, result.data.replace(mainColor, 'currentColor'), function (err) {
         if (err) {
-          return console.log(err);
+          return console.log('svgo error', err);
         }
         console.log(`${srcPath} was saved and optimized!`);
       });

@@ -1,0 +1,9 @@
+<svg id="megaphon-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>megaphon-pikto-form</title>
+  <g>
+    <path d="M8.25,13.5A8.16,8.16,0,0,0,0,21.75a8.5,8.5,0,0,0,7.25,8.44V44.75h5.5V30.25h.05L33,39.68V4.34L12.79,13.5ZM31.5,37.32l-17.25-8V14.48L31.5,6.66Z" fill="#003cb4"/>
+    <rect x="36" y="21.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="35.26" y="9.63" width="11.97" height="1.5" transform="translate(0.09 21.1) rotate(-28.72)" fill="#003cb4"/>
+    <rect x="40.5" y="27.7" width="1.5" height="12.09" transform="translate(-8.52 52.82) rotate(-60.26)" fill="#003cb4"/>
+  </g>
+</svg>

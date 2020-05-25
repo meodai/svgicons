@@ -1,0 +1,9 @@
+<svg id="papierkorb-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>papierkorb-pikto-form</title>
+  <g>
+    <rect x="15.75" y="16" width="1.5" height="25" fill="#003cb4"/>
+    <rect x="23.25" y="16" width="1.5" height="25" fill="#003cb4"/>
+    <rect x="30.5" y="16" width="1.5" height="25" fill="#003cb4"/>
+    <path d="M43.25,5H32V0H15.75V5h-11v5.75H8L10,48H37.7L40,10.75h3.23Zm-7,41.5H11.46l-2-35.75H38.51Z" fill="#003cb4"/>
+  </g>
+</svg>

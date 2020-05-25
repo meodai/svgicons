@@ -1,0 +1,7 @@
+<svg id="investitionsmodus-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>investitionsmodus-pikto-linie</title>
+  <path d="M18,27.25A15.42,15.42,0,0,0,17,32a15,15,0,1,0,8-13.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="35.75 29 39.75 33 43.75 29" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M39,36a8.08,8.08,0,0,1-7,4,8,8,0,0,1,0-16,7.79,7.79,0,0,1,7.75,8" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M16,1A15,15,0,1,0,31,16,15,15,0,0,0,16,1Zm5.75,21.5H10.25v-3H14.5v-7H10.25v-3H17.5v10h4.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

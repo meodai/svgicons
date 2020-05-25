@@ -1,0 +1,6 @@
+<svg id="sicherheit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>sicherheit-pikto-linie</title>
+  <path d="M4.25,23.75h19V1.83L4.25,9Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24.75,25.25v21a38.72,38.72,0,0,0,9.75-4.5c6.25-4.16,9-9.39,9.25-16.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M44.5,24.75c0,18.66-20.5,22.5-20.5,22.5S3.5,43.41,3.5,24.75V8.5L24,.75,44.5,8.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

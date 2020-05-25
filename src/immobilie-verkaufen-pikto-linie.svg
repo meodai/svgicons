@@ -1,0 +1,5 @@
+<svg id="immobilie-verkaufen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>immobilie-verkaufen-pikto-linie</title>
+  <polygon points="1 15 24 1 47 15 47 47 1 47 1 15" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M17.2,24l-4.95,4.1v7.3l4.95,4.1H35.75V24Zm-.45,10.25a2.5,2.5,0,0,1,0-5h0a2.55,2.55,0,0,1,2.53,2.5A2.5,2.5,0,0,1,16.75,34.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

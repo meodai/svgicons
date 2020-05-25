@@ -1,0 +1,5 @@
+<svg id="standort-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>standort-pikto-linie</title>
+  <path d="M24,11a6.75,6.75,0,1,1-6.75,6.75A6.76,6.76,0,0,1,24,11" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M41,18A17,17,0,0,0,7,18C7,28.84,24,47,24,47S41,28.84,41,18Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

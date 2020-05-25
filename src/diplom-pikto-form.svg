@@ -1,0 +1,9 @@
+<svg id="diplom-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>diplom-pikto-form</title>
+  <g>
+    <path d="M47.5,0H.5V39.5H32.25v4.38L37.75,48V39.5H47.5ZM46,38H37.75v-2.4l1.65.24.3-2.4L42,32l-1.16-2L42,27.66l-2.26-1.12V23.92l-3,.3L35,22.48l-2,1.74-2.67-.3-.29,2.59L27.68,27.7,29.13,30,28,32l2.07,1.47.61,2.75,1.56-.45V38H2V1.49H46Z" fill="#003cb4"/>
+    <rect x="7.75" y="6.75" width="17.25" height="1.5" fill="#003cb4"/>
+    <rect x="7.75" y="12.75" width="14.25" height="1.5" fill="#003cb4"/>
+    <rect x="7.75" y="18.25" width="17.25" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

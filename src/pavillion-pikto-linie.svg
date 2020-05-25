@@ -1,0 +1,9 @@
+<svg id="pavillion-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>pavillion-pikto-linie</title>
+  <line x1="13" y1="32.99" x2="13" y2="39" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="26" y="22" width="10" height="17" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M4,39H44V14L30,1,4,14Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M13,5c-2.08,6.39-6,19-6,21.75A6.16,6.16,0,0,0,13,33a6.16,6.16,0,0,0,6-6.25C19,24,15.08,11.39,13,5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="2" y1="43.25" x2="46" y2="43.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line y1="47.25" x2="48" y2="47.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

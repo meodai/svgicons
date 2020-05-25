@@ -1,0 +1,11 @@
+<svg id="mobilitaet-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>mobilitaet-pikto-linie</title>
+  <g>
+    <line x1="18.25" y1="42" x2="10.5" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="29.75" y1="42" x2="37.5" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <path d="M42,27.5H6L4.5,38a4.28,4.28,0,0,0,4.25,4.5H39A4.49,4.49,0,0,0,43.5,38ZM16.25,37a1.8,1.8,0,0,1-.75,1.25,1,1,0,0,1-.75.25C14.62,38.5,8.5,37,8.5,37a1.48,1.48,0,0,1-1-1.5V34.25A1.5,1.5,0,0,1,9,32.75h5.75a1.5,1.5,0,0,1,1.5,1.5Zm15.5-2.75a1.5,1.5,0,0,1,1.5-1.5H39a1.5,1.5,0,0,1,1.5,1.5V35.5a1.48,1.48,0,0,1-1,1.5s-6.12,1.5-6.25,1.5a1,1,0,0,1-.75-.25A1.8,1.8,0,0,1,31.75,37Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="27.5 4.75 24 8.5 20.5 4.75 24 1.25 27.5 4.75" fill="none" stroke="#003cb4" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="17.5" y1="14" x2="30.5" y2="14" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M42,27.5l-2-15S34.48,9,24,9,8,12.5,8,12.5l-2,15Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

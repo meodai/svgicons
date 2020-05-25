@@ -1,0 +1,6 @@
+<svg id="eis-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>eis-pikto-linie</title>
+  <rect x="21.25" y="35" width="5.5" height="12.25" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M11.75,35h24.5V13.26A12.4,12.4,0,0,0,24,.75,12.4,12.4,0,0,0,11.75,13.26Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M36.25,13.75h-4.5V18a3,3,0,0,1-6,0v5.5a3,3,0,0,1-6,0V13.75h-8" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

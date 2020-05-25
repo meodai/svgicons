@@ -1,0 +1,9 @@
+<svg id="kredit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kredit-pikto-form</title>
+  <g>
+    <circle cx="30.5" cy="29" r="3.75" fill="#003cb4"/>
+    <circle cx="20.5" cy="19" r="3.75" fill="#003cb4"/>
+    <rect x="14.19" y="22.5" width="22.63" height="3" transform="translate(-9.5 25.06) rotate(-45)" fill="#003cb4"/>
+    <path d="M38.75,0H3.5V48H38.75a5.76,5.76,0,0,0,5.75-5.75V5.75A5.76,5.76,0,0,0,38.75,0ZM43,42.25a4.26,4.26,0,0,1-4.25,4.25H8V1.5H38.75A4.26,4.26,0,0,1,43,5.75Z" fill="#003cb4"/>
+  </g>
+</svg>

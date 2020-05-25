@@ -1,0 +1,8 @@
+<svg id="video-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>video-pikto-linie</title>
+  <circle cx="11.5" cy="7.5" r="6.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="9" r="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="0.75" y="15" width="38" height="32" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="38.75 24.75 47 21.75 47 38.25 38.75 35.25 38.75 24.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="15 24 15 38 27.5 31 15 24" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

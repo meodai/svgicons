@@ -1,0 +1,10 @@
+<svg id="nachfolge-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>nachfolge-pikto-linie</title>
+  <circle cx="36.25" cy="22.5" r="9.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M28.25,18c1.21-1.64,3.74-6.1,10.25-5s6.94,8.63,7,9C38.72,24.94,31.73,22.77,28.25,18Z" fill="#003cb4"/>
+  <path d="M17.5.75C10.85.75,5.32,6.61,4.5,13A22.38,22.38,0,0,0,13,14.5a24.47,24.47,0,0,0,12.25-3c1,1.75,3.67,2.78,5.75,3C31,7.34,24.7.75,17.5.75Z" fill="#003cb4"/>
+  <path d="M26.75,23.5A13.09,13.09,0,1,1,31,13.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47.25,47.25a11.21,11.21,0,0,0-11.5-11c-6.42,0-11.75,4.91-11.75,11Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M18.25,32.25,20,40.75,17.75,43,15.5,40.75l1.75-8.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M31.5,37.5A17.3,17.3,0,0,0,18,31.25c-9.49,0-17.25,7.12-17.25,16H25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

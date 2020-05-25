@@ -1,0 +1,6 @@
+<svg id="smartphone-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>smartphone-pikto-linie</title>
+  <line x1="20" y1="5" x2="28" y2="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.52"/>
+  <path d="M38.25,39v6.75A1.4,1.4,0,0,1,37,47.25H11a1.4,1.4,0,0,1-1.25-1.5V39Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M38.25,39V2A1.2,1.2,0,0,0,37,.75H11A1.2,1.2,0,0,0,9.75,2V39Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

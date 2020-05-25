@@ -1,0 +1,9 @@
+<svg id="weiterempfehlen-1-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>weiterempfehlen-1-pikto-linie</title>
+  <path d="M20,36l-9,8V36A10,10,0,0,1,1,26V11.06A10,10,0,0,1,11,1H37A10,10,0,0,1,47,11V26A10,10,0,0,1,37,36Z" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <rect x="13" y="15.5" width="5" height="13.5" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M34,15H23s3.19-6.23,3.25-7.5a1.86,1.86,0,0,0-2-2A2,2,0,0,0,22.5,6.75L18,15V29H32.5a1.75,1.75,0,0,0,0-3.5H33A1.75,1.75,0,0,0,33,22h.5a1.75,1.75,0,0,0,0-3.5H34A1.75,1.75,0,0,0,34,15Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M32.5,25.5h0Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+  <path d="M33,22h0Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+  <path d="M33.5,18.5h0Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+</svg>

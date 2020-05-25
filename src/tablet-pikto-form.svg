@@ -1,0 +1,7 @@
+<svg id="tablet-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>tablet-pikto-form</title>
+  <g>
+    <path d="M42,0H6A1.76,1.76,0,0,0,4.25,1.75V46.1A1.83,1.83,0,0,0,6,48H42a1.83,1.83,0,0,0,1.75-1.9V1.75A1.76,1.76,0,0,0,42,0ZM5.75,1.75A.25.25,0,0,1,6,1.5H42a.25.25,0,0,1,.25.25V39H5.75Z" fill="#003cb4"/>
+    <rect x="20" y="4.75" width="8" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

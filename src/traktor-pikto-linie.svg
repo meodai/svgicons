@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="traktor-pikto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<title>traktor-pikto-linie</title>
+<line fill="none" stroke="#003CB4" stroke-width="1.5" stroke-miterlimit="10" x1="2.79" y1="2" x2="27.63" y2="2"/>
+<polyline fill="none" stroke="#003CB4" stroke-width="1.5" stroke-miterlimit="10" points="33.59,21 33.59,10 35.57,8 "/>
+<polygon fill="none" stroke="#003CB4" stroke-width="1.5" stroke-miterlimit="10" points="9.75,6 19.68,6 21.67,18 8.75,18 "/>
+<path fill="none" stroke="#003CB4" stroke-width="1.5" stroke-miterlimit="10" d="M1.5,31c2.62-5.95,9.53-8.64,15.44-6.01
+	c4.31,1.92,7.06,6.26,6.96,11.01c0,0.34,0,0.67,0,1h8.44c1.5-3.99,5.93-6.01,9.9-4.5c1.71,0.65,3.13,1.89,4.01,3.5h0.25V26
+	c0-3-18.87-6-18.87-6L23.65,2H5.77L3.78,27.5"/>
+<path fill="#00BEC8" stroke="#00BEC8" stroke-width="1.5" stroke-miterlimit="10" d="M39.55,33.5c-3.57,0-6.46,2.91-6.46,6.5
+	s2.89,6.5,6.46,6.5c3.57,0,6.46-2.91,6.46-6.5S43.11,33.5,39.55,33.5z M39.55,43.5c-1.92,0-3.48-1.57-3.48-3.5s1.56-3.5,3.48-3.5
+	c1.92,0,3.48,1.57,3.48,3.5S41.47,43.5,39.55,43.5z"/>
+<g>
+	<ellipse fill="#00BEC8" stroke="#00BEC8" stroke-width="1.5" stroke-miterlimit="10" cx="12.23" cy="36" rx="4.47" ry="4.5"/>
+	<path fill="#00BEC8" stroke="#00BEC8" stroke-width="1.5" stroke-miterlimit="10" d="M12.23,25.5C6.47,25.5,1.8,30.2,1.8,36
+		s4.67,10.5,10.43,10.5S22.66,41.8,22.66,36l0,0C22.66,30.2,17.99,25.5,12.23,25.5z M12.23,43.5c-4.11,0-7.45-3.36-7.45-7.5
+		s3.34-7.5,7.45-7.5s7.45,3.36,7.45,7.5S16.34,43.5,12.23,43.5L12.23,43.5z"/>
+</g>
+</svg>

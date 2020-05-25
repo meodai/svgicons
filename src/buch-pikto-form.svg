@@ -1,0 +1,13 @@
+<svg id="buch-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>buch-pikto-form</title>
+  <g>
+    <path d="M45.75,5.25V3.37l-.62-.11C44.44,3.14,29,.56,24,4.93,19,.56,3.56,3.14,2.87,3.26l-.62.11V5.25h-2v42.5h47.5V5.25Zm-21,1.06c3.16-3.38,14.55-2.44,19.5-1.67V42.17c-3.22-.3-14.59-1.1-19.5,2.18Zm-21-1.67c4.95-.77,16.34-1.71,19.5,1.67v38c-3-2-8.42-2.49-12.92-2.49-2.85,0-5.33.19-6.58.31Z" fill="#003cb4"/>
+    <rect x="28" y="21.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="28" y="11.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="28" y="16.25" width="8" height="1.5" fill="#003cb4"/>
+    <rect x="7" y="21.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="7" y="11.25" width="12" height="1.5" fill="#003cb4"/>
+    <rect x="7" y="16.25" width="8" height="1.5" fill="#003cb4"/>
+    <rect x="7" y="26.25" width="8" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

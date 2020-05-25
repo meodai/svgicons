@@ -1,0 +1,9 @@
+<svg id="bier-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>bier-pikto</title>
+  <path d="M36.25,15h-2v5h2C39.71,20,43,22.61,43,26.25V31.5c0,3.64-3.54,6.2-7,6.5H34v4.75h2A11,11,0,0,0,47,31.5V26.25C47,19.84,42.35,14.85,36.25,15Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M34,11V41c0,2.91-2.23,5.75-5.25,5.75H6.5A5.82,5.82,0,0,1,1,41V11" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="10" y1="22" x2="10" y2="42" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M6.25,16.75C3.17,16.75,1,14,1,11S3,6,6.25,6A5.32,5.32,0,0,1,11.75.75,5.54,5.54,0,0,1,17.5,6,5.32,5.32,0,0,1,23,.75,5.32,5.32,0,0,1,28.5,6C31.58,6,34,8.05,34,11a5.75,5.75,0,0,1-5.5,5.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="18" y1="22" x2="18" y2="42" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="26" y1="22" x2="26" y2="42" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

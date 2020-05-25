@@ -1,0 +1,7 @@
+<svg id="strom-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>strom-pikto-linie</title>
+  <rect x="7" y="1" width="4" height="10" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="17" y="1" width="4" height="10" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M1,22c0,7.15,5.82,12,13,12s13-4.85,13-12V11H1Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M46,44V39a7.77,7.77,0,0,0-8-8,7.77,7.77,0,0,0-8,8,7.77,7.77,0,0,1-8,8,7.77,7.77,0,0,1-8-8V34" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

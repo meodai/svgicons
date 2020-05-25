@@ -1,0 +1,9 @@
+<svg id="transaktion-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>transaktion-pikto-linie</title>
+  <line x1="9" y1="28" x2="25" y2="28" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="14 33 9 28 14 23" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="25.01" y1="18" x2="9" y2="18" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="20 13 25 18 20 23" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M30,6a18.87,18.87,0,0,0-6,1A16.55,16.55,0,0,1,35,23,16.55,16.55,0,0,1,24,39a18.87,18.87,0,0,0,6,1A17,17,0,0,0,30,6Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="18" cy="23" r="17" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

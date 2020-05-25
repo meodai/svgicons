@@ -1,0 +1,10 @@
+<svg id="kreditkarte-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kreditkarte-pikto-form</title>
+  <g>
+    <rect x="6" y="30.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="16" y="30.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="26" y="30.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="36" y="30.25" width="6" height="1.5" fill="#003cb4"/>
+    <path d="M43.71,7.25H4.29C1.93,7.25,0,9.49,0,12.25v25.5c0,2.76,1.93,5,4.29,5H43.71c2.36,0,4.29-2.24,4.29-5V12.25C48,9.49,46.07,7.25,43.71,7.25ZM4.29,8.75H43.71c1.53,0,2.77,1.57,2.77,3.5v3h-45v-3C1.52,10.32,2.76,8.75,4.29,8.75Zm39.42,32.5H4.29c-1.53,0-2.77-1.57-2.77-3.5v-15h45v15C46.48,39.68,45.24,41.25,43.71,41.25Z" fill="#003cb4"/>
+  </g>
+</svg>

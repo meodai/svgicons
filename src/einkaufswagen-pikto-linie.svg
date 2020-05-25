@@ -1,0 +1,7 @@
+<svg id="einkaufswagen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>einkaufswagen-pikto-linie</title>
+  <rect x="17" y="20" width="18" height="9" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="6.5 11.5 47 11.5 44.5 33.5 10 33.5 4.75 1.5 0 1.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="16" cy="42.5" r="4" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="38.25" cy="42.5" r="4" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

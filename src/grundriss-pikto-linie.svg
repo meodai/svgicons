@@ -1,0 +1,10 @@
+<svg id="grundriss-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>grundriss-pikto-linie</title>
+  <line x1="26" y1="2" x2="26" y2="31" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="26" y1="38" x2="26" y2="46" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="5" y="2" width="42" height="44" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="33" y1="24" x2="47" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="1 15 17 31 22 32 21 27 5 11 1 15" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="21.8" y1="30" x2="20" y2="31.8" fill="#003cb4" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="7.67" y="9.89" width="5.66" height="21.21" transform="translate(-11.42 13.43) rotate(-45)" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

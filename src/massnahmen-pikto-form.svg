@@ -1,0 +1,9 @@
+<svg id="massnahmen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>massnahmen-pikto-form</title>
+  <g>
+    <path d="M2.25,21.75h19.5V2.25H2.25Zm1.5-18h16.5v16.5H3.75Z" fill="#003cb4"/>
+    <path d="M2.25,45.75h19.5V26.25H2.25Zm1.5-18h16.5v16.5H3.75Z" fill="#003cb4"/>
+    <path d="M45.75,2.25H26.25v19.5h19.5Zm-1.5,18H27.75V3.75h16.5Z" fill="#003cb4"/>
+    <path d="M24.25,24.25v23.5h23.5V24.25ZM35,40.38l-2.67-2.66,1.25-1.38,1.27,1.27,3.53-4.28,1.39,1.25Z" fill="#003cb4"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="treuekarte-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>treuekarte-pikto-linie</title>
+  <path d="M35.75,36.25l4.75-5c1.24-1.26,1.9-3.4,0-5-2.07-1.74-4.75.75-4.75.75s-2.68-2.49-4.75-.75c-1.9,1.6-1.24,3.74,0,5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10"/>
+  <rect x="1" y="15" width="46" height="6" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47,36.75C47,39.09,45.44,41,43.5,41H4.5C2.56,41,1,39.09,1,36.75V11.25C1,8.91,2.56,7,4.5,7h39C45.44,7,47,8.91,47,11.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

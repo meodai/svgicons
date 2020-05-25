@@ -1,0 +1,8 @@
+<svg id="fahrstrecke-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fahrstrecke-pikto-linie</title>
+  <path d="M9,46.25H38a5.76,5.76,0,1,0,0-11.5H28a6,6,0,0,1,0-12H39" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.49"/>
+  <path d="M39,22.5s-8-7.73-8-13a8,8,0,0,1,16,0C47,15.17,39,22.5,39,22.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M39,6.5a3,3,0,1,0,3,3A3,3,0,0,0,39,6.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M9,30.5a3,3,0,1,0,3,3A3,3,0,0,0,9,30.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M9,46S1,38.27,1,33a8,8,0,0,1,16,0C17,38.67,9,46,9,46Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

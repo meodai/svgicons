@@ -1,0 +1,12 @@
+<svg id="quadratmeter-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>quadratmeter-pikto-form</title>
+  <g>
+    <rect x="13.25" y="13.25" width="21.5" height="21.5" fill="#003cb4"/>
+    <rect x="12" y="41.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="24" y="41.25" width="6" height="1.5" fill="#003cb4"/>
+    <polygon points="42.75 5.25 42.75 0 41.25 0 41.25 5.25 5.25 5.25 5.25 41.25 0 41.25 0 42.75 5.25 42.75 5.25 47 6.75 47 6.75 6.75 47 6.75 47 5.25 42.75 5.25" fill="#003cb4"/>
+    <rect x="41.25" y="12" width="1.5" height="6" fill="#003cb4"/>
+    <rect x="41.25" y="25" width="1.5" height="6" fill="#003cb4"/>
+    <polygon points="41.25 41.25 36 41.25 36 42.75 42.75 42.75 42.75 36 41.25 36 41.25 41.25" fill="#003cb4"/>
+  </g>
+</svg>

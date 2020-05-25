@@ -1,0 +1,8 @@
+<svg id="bagger-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>bagger-pikto</title>
+  <path d="M8,39.5A1.5,1.5,0,1,0,9.5,41,1.5,1.5,0,0,0,8,39.5Zm26,0A1.5,1.5,0,1,0,35.5,41,1.5,1.5,0,0,0,34,39.5Zm-13,0A1.5,1.5,0,1,0,22.5,41,1.5,1.5,0,0,0,21,39.5ZM35,35H7A6,6,0,0,0,7,47H35a6,6,0,0,0,0-12ZM8,45.5A4.5,4.5,0,1,1,12.5,41,4.49,4.49,0,0,1,8,45.5Zm13,0A4.5,4.5,0,1,1,25.5,41,4.49,4.49,0,0,1,21,45.5Zm13,0A4.5,4.5,0,1,1,38.5,41,4.49,4.49,0,0,1,34,45.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="7 22.5 7 33.75 31 33.75 31 23.5 25 7.5 13 7.5 13 22.5 7 22.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="44 26 39 9 30 20" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M27,12,39,1h4l4,26a6,6,0,0,1-12,1l11-3" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="17 11 17 22 26 22 22 11 17 11" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="avatar-opa-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>avatar-opa-pikto</title>
+  <circle cx="24" cy="24" r="23" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47,24a22.79,22.79,0,0,0-4.8-14A8.4,8.4,0,0,0,40,16,8,8,0,0,0,47,24Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M8,16a8.4,8.4,0,0,0-2.2-6A22.79,22.79,0,0,0,1,24,8,8,0,0,0,8,16Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <line x1="20.2" y1="28.2" x2="27.8" y2="28.2" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle cx="15.2" cy="28.2" r="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle cx="32.8" cy="28.2" r="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

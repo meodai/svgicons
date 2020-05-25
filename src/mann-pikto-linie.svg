@@ -1,0 +1,6 @@
+<svg id="mann-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>mann-pikto-linie</title>
+  <path d="M41.5,47.25S41.5,31.5,24,31.5,6.5,47.25,6.5,47.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M37.5,14.91a13.51,13.51,0,0,1-27-.71c0-.32,0-.59,0-.95M24,0" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24,.75a13.52,13.52,0,0,1,13.5,13.5,6.59,6.59,0,0,1-4.64-2.93l-.38-.55-.59.32a25.6,25.6,0,0,1-12.35,3,30.7,30.7,0,0,1-9-1.36A13.62,13.62,0,0,1,24,.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

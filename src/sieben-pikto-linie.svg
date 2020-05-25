@@ -1,0 +1,7 @@
+<svg id="sieben-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>sieben-pikto-linie</title>
+  <g>
+    <polyline points="19.25 16.5 28 16.5 28 31.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="22.5" y1="24" x2="28" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

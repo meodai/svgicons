@@ -1,0 +1,8 @@
+<svg id="einzahlungsschein-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>einzahlungsschein-pikto-linie</title>
+  <rect x="24" y="32" width="23.25" height="9.5" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="0.75" y="6" width="46.5" height="35.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.5" y1="13.75" x2="25" y2="13.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.5" y1="19.5" x2="22" y2="19.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.5" y1="25.25" x2="25" y2="25.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

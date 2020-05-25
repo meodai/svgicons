@@ -1,0 +1,8 @@
+<svg id="smily-sonnenbrille-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>smily-sonnenbrille-pikto-linie</title>
+  <path d="M13.29,33.5A14.92,14.92,0,0,0,24,38.25,15,15,0,0,0,34.75,33.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M27.75,25.25h14.5v-9.5H27.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M5.75,25.25h14.5v-9.5H5.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="24" r="23.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="20.25" y1="20.5" x2="27.75" y2="20.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

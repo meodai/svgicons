@@ -1,0 +1,6 @@
+<svg id="verpflegung-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>verpflegung-pikto-linie</title>
+  <path d="M19.5,4.5a7.59,7.59,0,0,0-7.5-1,7.7,7.7,0,0,0,3.25,7,8,8,0,0,0,7.75.75A7.52,7.52,0,0,0,19.5,4.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M29.25,2.5A8,8,0,0,1,37,1.75,7.27,7.27,0,0,1,33.75,8.5,8,8,0,0,1,26,9.25,7.27,7.27,0,0,1,29.25,2.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M33.25,16c19.85,3,4.93,37-5,30-2.93-2.06-5.07-2.06-8,0C13.94,50.44,6.08,38.66,6,28.5,6,22.69,8.39,17.09,15.25,16s9.25,3,9.25,3S26.3,15,33.25,16Z" fill="none" stroke="#003cb4" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

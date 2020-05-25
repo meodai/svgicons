@@ -1,0 +1,7 @@
+<svg id="ranking-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>ranking-pikto-linie</title>
+  <rect x="1" y="27.01" width="15" height="20" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="16" y="19.01" width="16" height="28" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="32" y="35.01" width="15" height="12" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="24 2.01 26.25 6.74 31.5 7.25 27.6 10.75 28.75 16.01 24 13.5 19.25 16.01 20.5 10.75 16.5 7.25 21.75 6.74 24 2.01" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="rakete-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>rakete-pikto-linie</title>
+  <path d="M16.25,36.25c.2,2.24-1.42,4.3-4.75,5.75-5.06,2.2-8,3.45-9.75,4.25C2.55,44.51,3.8,41.56,6,36.5c1.38-3.17,3.38-5,5.5-5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M44.25,17.25a9.55,9.55,0,0,0-13.5-13.5l-23,23,13.5,13.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+  <polyline points="34.25 27.25 32.5 45 24.75 37" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+  <polyline points="20.75 13.75 3 15.5 11 23.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5" fill-rule="evenodd"/>
+  <line x1="26.25" y1="21.75" x2="17.25" y2="30.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="34.38" cy="13.63" r="2.3" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

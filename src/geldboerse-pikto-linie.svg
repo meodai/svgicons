@@ -1,0 +1,5 @@
+<svg id="geldboerse-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>geldboerse-pikto-linie</title>
+  <rect id="stroke" x="1" y="4" width="42" height="40" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M45,17H27a2,2,0,0,0-2,2v8a2,2,0,0,0,2,2H45a2,2,0,0,0,2-2V19A2,2,0,0,0,45,17ZM30,26.5A3.5,3.5,0,1,1,33.5,23,3.5,3.5,0,0,1,30,26.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

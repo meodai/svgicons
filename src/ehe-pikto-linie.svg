@@ -1,0 +1,6 @@
+<svg id="ehe-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>ehe-pikto-linie</title>
+  <path d="M24,15l7-7a3.88,3.88,0,0,0,.26-5.75A4.3,4.3,0,0,0,25,2L24,3,23,2a4.29,4.29,0,0,0-6.25.25A3.88,3.88,0,0,0,17,8Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="14.5" cy="33.5" r="13.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="33.5" cy="33.5" r="13.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="politik-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>politik-pikto-linie</title>
+  <circle cx="24" cy="9.5" r="8.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M34,28s0-8-10-8-10,8-10,8Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M31.7,7A8,8,0,0,0,16.25,7,17.68,17.68,0,0,0,31.7,7Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="4 28.01 44 28.01 41.6 35.01 36 35.01 34 47.01 14 47.01 12 35.01 6.4 35.01 4 28.01" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="9 28.01 9 22.01 10.75 19.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="12" cy="18.01" r="2" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

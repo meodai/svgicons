@@ -1,0 +1,8 @@
+<svg id="sprechblasen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>sprechblasen-pikto-linie</title>
+  <path d="M40,15.75H33V18a7,7,0,0,1-7,7H15v7.75a7,7,0,0,0,7,7H34l6,6v-6a7,7,0,0,0,7-7v-10A7,7,0,0,0,40,15.75Z" fill="#00bec8" stroke="#00bec8" stroke-width="1.5"/>
+  <path d="M14,25,8,31V25a7,7,0,0,1-7-7V8A7,7,0,0,1,8,1H26a7,7,0,0,1,7,7V18a7,7,0,0,1-7,7Z" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="8.5" y1="7" x2="26" y2="7" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="8.5" y1="12.75" x2="23" y2="12.75" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="8.5" y1="18.5" x2="26" y2="18.5" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+</svg>

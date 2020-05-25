@@ -1,0 +1,11 @@
+<svg id="idee-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>idee-pikto-form</title>
+  <g>
+    <path d="M24,9.25A13.77,13.77,0,0,0,10.25,23a14,14,0,0,0,6.5,11.92V40.5A7.47,7.47,0,0,0,24,48a7.47,7.47,0,0,0,7.25-7.5V34.92A14.48,14.48,0,0,0,37.75,23,13.77,13.77,0,0,0,24,9.25Zm6.11,24.61-.36.22v4.17H18.25V34.07l-.37-.22A12.5,12.5,0,0,1,11.75,23a12.25,12.25,0,0,1,24.5,0A12.92,12.92,0,0,1,30.11,33.86Z" fill="#003cb4"/>
+    <rect x="23.25" width="1.5" height="6" fill="#003cb4"/>
+    <rect x="41" y="23.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="1" y="23.25" width="6" height="1.5" fill="#003cb4"/>
+    <rect x="7.38" y="5.12" width="1.5" height="6.01" transform="translate(-3.37 8.13) rotate(-45)" fill="#003cb4"/>
+    <rect x="37.08" y="7.38" width="5.84" height="1.5" transform="translate(6.67 31.68) rotate(-46.74)" fill="#003cb4"/>
+  </g>
+</svg>

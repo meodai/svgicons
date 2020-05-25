@@ -1,0 +1,7 @@
+<svg id="kalender-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kalender-pikto-form</title>
+  <g>
+    <path d="M37.5,4.25V0H35V4.25H13V0H10.5V4.25H0V48H48V4.25Zm9,42.25H1.5V16.75h45Z" fill="#003cb4"/>
+    <polygon points="19.5 30.5 19.5 39 28.5 39 28.5 37.5 21 37.5 21 32 28.5 32 28.5 23.5 19.5 23.5 19.5 25 27 25 27 30.5 19.5 30.5" fill="#003cb4"/>
+  </g>
+</svg>

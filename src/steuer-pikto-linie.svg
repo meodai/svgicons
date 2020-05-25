@@ -1,0 +1,7 @@
+<svg id="steuer-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>steuer-pikto-linie</title>
+  <path d="M21.75,47.25H26.5v-30H21.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M9.25,47.25H14v-30H9.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M34,47.25h4.75v-30H34Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M.75,47.25h46.5V8.75L24,.75.75,8.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

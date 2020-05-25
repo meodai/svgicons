@@ -1,0 +1,7 @@
+<svg id="fondsmanager-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fondsmanager-pikto-linie</title>
+  <polyline points="47 1 26 22 12 8 2 19" fill="none" stroke="#003cb4" stroke-miterlimit="2" stroke-width="1.5"/>
+  <polyline points="39 1 47 1 47 9" fill="none" stroke="#003cb4" stroke-miterlimit="2" stroke-width="1.5"/>
+  <path d="M41,36.5h0c-19.25-23.62-35,0-35,0S21.75,60.12,41,36.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="36.5" r="5" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.53"/>
+</svg>

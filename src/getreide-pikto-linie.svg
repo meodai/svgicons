@@ -1,0 +1,12 @@
+<svg id="getreide-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>getreide-pikto-linie</title>
+  <line x1="40.25" y1="7.75" x2="46.5" y2="1.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="17.75" y1="10.75" x2="25" y2="3.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="37.25" y1="30" x2="44.5" y2="22.75" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M6.25,22.25S.75,26,.75,32c0,5.12,6,9,6,9s6.14-4.45,5.5-10.5C11.66,24.91,6.25,22.25,6.25,22.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M25.75,41.5S22.51,36,16.5,35.75c-5.11-.21-9.75,5.75-9.75,5.75s3.68,6.13,9.75,5.75C22.11,46.89,25.75,41.5,25.75,41.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M17.75,10.75s-5.5,3.74-5.5,9.75c0,5.12,6,9,6,9s6.14-4.45,5.5-10.5C23.16,13.41,17.75,10.75,17.75,10.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M37.25,30S34,24.51,28,24.26C22.89,24,18.25,30,18.25,30s3.68,6.13,9.75,5.75C33.61,35.4,37.25,30,37.25,30Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M27.25,20.75s7,1.38,11.25-3c3.9-4,2.25-10.5,2.25-10.5s-6.86-1.45-11.25,3C26.29,13.5,27.25,20.75,27.25,20.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="0.75" y1="47.25" x2="27.5" y2="20.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

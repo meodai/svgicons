@@ -1,0 +1,17 @@
+<svg id="zeit-uhr-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>zeit-uhr-pikto-linie</title>
+  <circle cx="24" cy="24" r="23.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="0.75" x2="24" y2="5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="12.25" y1="3.75" x2="14.5" y2="7.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="3.75" y1="12.25" x2="7.5" y2="14.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="0.75" y1="24" x2="5" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="43" y1="24" x2="47.25" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="40.5" y1="14.5" x2="44.25" y2="12.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="33.5" y1="7.5" x2="35.75" y2="3.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="47.25" x2="24" y2="43" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="35.75" y1="44.25" x2="33.5" y2="40.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="44.25" y1="35.75" x2="40.5" y2="33.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.5" y1="33.5" x2="3.75" y2="35.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="14.5" y1="40.5" x2="12.25" y2="44.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="16.5 19 24 24 33 12.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="5"/>
+</svg>

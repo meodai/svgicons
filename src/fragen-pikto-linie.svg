@@ -1,0 +1,7 @@
+<svg id="fragen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fragen-pikto-linie</title>
+  <path d="M40,15.75H33V18a7,7,0,0,1-7,7H15v7.75a7,7,0,0,0,7,7H34l6,6v-6a7,7,0,0,0,7-7v-10A7,7,0,0,0,40,15.75Z" fill="#00bec8" stroke="#00bec8" stroke-width="1.5"/>
+  <path d="M14,25,8,31V25a7,7,0,0,1-7-7V8A7,7,0,0,1,8,1H26a7,7,0,0,1,7,7V18a7,7,0,0,1-7,7Z" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <path d="M12.5,9.25a4.5,4.5,0,1,1,4.5,4.5v3" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="17" y1="18.25" x2="17" y2="19.75" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+</svg>

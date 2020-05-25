@@ -1,0 +1,9 @@
+<svg id="dokument-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>dokument-pikto-form</title>
+  <g>
+    <rect x="15.5" y="25.5" width="17.5" height="1.5" fill="#003cb4"/>
+    <rect x="15.5" y="31.25" width="14.5" height="1.5" fill="#003cb4"/>
+    <rect x="15.5" y="37" width="17.5" height="1.5" fill="#003cb4"/>
+    <path d="M31,0H5.25V48h37.5V11.25ZM41.25,46.5H6.75V1.5H29.5V12.75H41.25Z" fill="#003cb4"/>
+  </g>
+</svg>

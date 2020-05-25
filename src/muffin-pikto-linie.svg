@@ -1,0 +1,8 @@
+<svg id="muffin-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>muffin-pikto-linie</title>
+  <path d="M47.25,20c0-5-4.41-9-9.5-9a10.25,10.25,0,0,0-3,.5A14,14,0,0,0,23,4.5a12.77,12.77,0,0,0-12.75,10,5.37,5.37,0,0,0-1.75,0c-4,.41-7.75,3.45-7.75,8a7.22,7.22,0,0,0,6.75,7H39C44,29.35,47.25,24.88,47.25,20Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M1,1c4.22-1,9,1.76,10,6" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="40 30 37 47.25 11 47.25 8 29.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="9.5 36 38.5 36 38 41 10 41 9.5 36" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="12" cy="12.5" r="6" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

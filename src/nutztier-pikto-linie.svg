@@ -1,0 +1,15 @@
+<svg id="nutztier-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>nutztier-pikto-linie</title>
+  <path d="M9,11.25V18C.08,18,.75,11.25.75,11.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M39,11.25V18c8.92,0,8.24-6.75,8.24-6.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="9 39.5 9 11.25 39 11.25 39 39.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <path d="M12.75,11.25A2.65,2.65,0,0,1,10,8.75V0" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M38,0V8.75a2.65,2.65,0,0,1-2.75,2.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <g>
+    <circle cx="18" cy="40" r="2.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle cx="30" cy="40" r="2.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <path d="M16.5,47.25A7.44,7.44,0,0,1,9,40a7.66,7.66,0,0,1,7.5-7.5h15A7.66,7.66,0,0,1,39,40a7.44,7.44,0,0,1-7.5,7.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

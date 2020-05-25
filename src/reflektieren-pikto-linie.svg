@@ -1,0 +1,8 @@
+<svg id="reflektieren-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>reflektieren-pikto-linie</title>
+  <circle cx="15" cy="20" r="11" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M29,47s0-12-14-12S1,47,1,47Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M25.59,17.25A11.06,11.06,0,0,0,15,9,11.07,11.07,0,0,0,4.4,17.25,24.18,24.18,0,0,0,25.59,17.25Z" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <ellipse cx="37" cy="8" rx="10" ry="7" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <ellipse cx="32" cy="20" rx="3" ry="2" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

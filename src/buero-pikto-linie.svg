@@ -1,0 +1,12 @@
+<svg id="buero-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>buero-pikto</title>
+  <line x1="1" y1="24" x2="47" y2="24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M35,20H13V6.5a.48.48,0,0,1,.5-.5h21a.48.48,0,0,1,.5.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M37,22.5H11v-1a2,2,0,0,1,2-2H35a2,2,0,0,1,2,2Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="4" y1="24" x2="4" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="44" y1="24" x2="44" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="28 24 28 40 44 40" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="28" y1="32" x2="44" y2="32" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="34" y1="28" x2="38" y2="28" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="34" y1="36" x2="38" y2="36" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

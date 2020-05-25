@@ -1,0 +1,9 @@
+<svg id="stoppuhr-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>stoppuhr-pikto-linie</title>
+  <path d="M24,9.5V26L36.25,37A16.49,16.49,0,1,1,24,9.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="23.75" cy="26" r="21.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="23.75" y1="0.75" x2="23.75" y2="4.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="19" y1="0.75" x2="28.5" y2="0.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="40.5" y1="6.5" x2="37.25" y2="10" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="37" y1="3.25" x2="44" y2="9.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

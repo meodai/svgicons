@@ -1,0 +1,7 @@
+<svg id="in-arbeit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>in-arbeit-pikto-form</title>
+  <g>
+    <path d="M24,.25v1.5A22.36,22.36,0,1,1,9.25,7.4V14h1.5V5.25H2v1.5H7.75A23.7,23.7,0,1,0,24,.25Z" fill="#003cb4"/>
+    <path d="M34,34.25H32.75V32.71L25,24l7.75-8.71V13.75H34v-1.5H14v1.5h1.25v1.54L23,24l-7.75,8.71v1.54H14v1.5H34ZM16.75,13.75h14.5v1L29,17.25H19l-2.25-2.54Zm14.5,20.5h-2L24,31.13l-5.21,3.12h-2v-1L24,25.13l7.25,8.16Z" fill="#003cb4"/>
+  </g>
+</svg>

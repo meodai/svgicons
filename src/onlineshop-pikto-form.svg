@@ -1,0 +1,9 @@
+<svg id="onlineshop-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>onlineshop-pikto</title>
+  <g>
+    <path d="M47.75,37.75V.25H.25v37.5h23v8.5H14v1.5H34v-1.5H24.75v-8.5Zm-46-1.5V1.75h44.5v34.5Z" fill="#003cb4"/>
+    <path d="M13.67,6.25H10v1.5h2.33l2,18H35l1.89-14.5H14.23Zm21.48,6.5-1.5,11.5h-18l-1.28-11.5Z" fill="#003cb4"/>
+    <circle cx="19" cy="29" r="2.75" fill="#003cb4"/>
+    <circle cx="30" cy="29" r="2.75" fill="#003cb4"/>
+  </g>
+</svg>

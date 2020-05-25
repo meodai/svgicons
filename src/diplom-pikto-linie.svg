@@ -1,0 +1,8 @@
+<svg id="diplom-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>diplom-pikto-linie</title>
+  <rect x="1" y="0.75" width="46" height="38.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.75" y1="7.5" x2="25" y2="7.5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.75" y1="13.5" x2="22" y2="13.5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="7.75" y1="19" x2="25" y2="19" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="41 28 39 27 39 24.75 36.5 25 35 23.5 33.25 25 31 24.75 30.75 27 28.75 28 30 30 29 31.75 30.75 33 31.25 35.25 33 34.75 33 43.5 37 46.5 37 34.75 38.75 35 39 33 41 31.75 40 30 41 28" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

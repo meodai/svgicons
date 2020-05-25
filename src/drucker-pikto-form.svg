@@ -1,0 +1,9 @@
+<svg id="drucker-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>drucker-pikto-form</title>
+  <g>
+    <path d="M40.25,27V0H7.75V27H0V48H48V27ZM9.25,1.5h29.5V34.75H9.25Z" fill="#003cb4"/>
+    <rect x="15.25" y="23.25" width="17.5" height="1.5" fill="#003cb4"/>
+    <rect x="15.25" y="11.5" width="17.5" height="1.5" fill="#003cb4"/>
+    <rect x="15.25" y="17.5" width="14.5" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

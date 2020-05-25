@@ -1,0 +1,10 @@
+<svg id="gesetze-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>gesetze-pikto-linie</title>
+  <g>
+    <path d="M25.5,20.25a3.5,3.5,0,1,0,3.5,3.5A3.5,3.5,0,0,0,25.5,20.25Z" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M29,16.75a3.5,3.5,0,1,0-3.5,3.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="3"/>
+    <path d="M22,30.75a3.5,3.5,0,1,0,3.5-3.5" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <path d="M5,.75H39a5,5,0,0,1,5,5v36.5a5,5,0,0,1-5,5H5a0,0,0,0,1,0,0V.75A0,0,0,0,1,5,.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="4.5" y="0.75" width="3" height="46.5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

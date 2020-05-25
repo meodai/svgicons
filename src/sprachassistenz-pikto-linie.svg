@@ -1,0 +1,7 @@
+<svg id="sprachassistenz-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>sprachassistenz-pikto-linie</title>
+  <path d="M24,.75A10.32,10.32,0,0,1,34.5,11v9.75a10.5,10.5,0,0,1-21,0V11A10.32,10.32,0,0,1,24,.75" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M8,22.25c0,8.28,7.79,15,16,15s16-6.72,16-15" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="47.25" x2="24" y2="37.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="14" y1="47.25" x2="34" y2="47.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

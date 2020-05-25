@@ -1,0 +1,9 @@
+<svg id="pokal-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>pokal-pikto-linie</title>
+  <path d="M29.25,29.75H19A11.19,11.19,0,0,1,7.75,18.5V.75H40V19A10.72,10.72,0,0,1,29.25,29.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M40,4.25h7.24V15c0,3-3.41,5.5-7.5,5.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M7.75,4.25h-7V15c0,3,3.16,5.5,7.25,5.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="24" y1="29.75" x2="24" y2="47.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="8" y1="47.25" x2="39.75" y2="47.25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M24,7a7.25,7.25,0,1,0,7.25,7.25A7.26,7.26,0,0,0,24,7Zm4.25,11.76h-8v-3h2.5V12.5h-2.5v-3h5.5v6.25h2.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

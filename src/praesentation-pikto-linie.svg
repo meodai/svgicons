@@ -1,0 +1,7 @@
+<svg id="praesentation-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>praesentation-pikto-linie</title>
+  <polyline points="14 46 24 35.75 34 46" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="1.75" y="2.01" width="44.5" height="33.24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M29.75,21.75,32.5,24A9.46,9.46,0,0,0,34,18.75a10.06,10.06,0,0,0-8.5-10v3.5a6.62,6.62,0,0,1,5,6.5A6.27,6.27,0,0,1,29.75,21.75Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M22.5,8.75A9.81,9.81,0,0,0,14,18.5,10.15,10.15,0,0,0,24,28.75a9.86,9.86,0,0,0,6.5-2.5L27.75,24A6.19,6.19,0,0,1,24,25.25a6.65,6.65,0,0,1-6.5-6.75,6.34,6.34,0,0,1,5-6.25Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

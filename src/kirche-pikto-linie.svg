@@ -1,0 +1,9 @@
+<svg id="kirche-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>kirche-pikto-linie</title>
+  <path d="M41,47H33V35c0-2.21,1-4,4-4s4,1.79,4,4Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="47 47 47 12 37 1.25 27 12 27 19 1 27 1 47 47 47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M9,31a2.31,2.31,0,0,1,2,2v7H7V33A2.31,2.31,0,0,1,9,31Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="27" y1="19" x2="27" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M19,31a2.31,2.31,0,0,1,2,2v7H17V33A2,2,0,0,1,19,31Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="37" cy="17" r="3" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

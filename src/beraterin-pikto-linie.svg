@@ -1,0 +1,11 @@
+<svg id="beraterin-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>beraterin-pikto</title>
+  <path d="M24,42s3-2,3-5a7.66,7.66,0,0,0-2-4.77H23A7.72,7.72,0,0,0,21,37C21,40,24,42,24,42Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M41.5,47.25S41.67,31.5,24,31.5C6.5,31.5,6.5,47.25,6.5,47.25Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="24" cy="14.25" r="13.5" fill="none" stroke="#003cb4" stroke-miterlimit="3" stroke-width="1.5"/>
+  <path d="M24,.75c-6.07,0-12.19,4.76-13.25,11,5-.61,9-3.24,10.75-7.75,1.74,6.36,6.73,10,16,10A13.28,13.28,0,0,0,24,.75Z" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="3" stroke-width="1.5"/>
+  <g>
+    <path d="M37.5,15.25A13.52,13.52,0,0,1,31,26h6.5V14.5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M10.5,14.75V26h6.42A14.38,14.38,0,0,1,10.5,14" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

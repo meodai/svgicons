@@ -1,0 +1,10 @@
+<svg id="investition-verkaufen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>investition-verkaufen-pikto-linie</title>
+  <path d="M25,35H1V1H25a5,5,0,0,1,5,5V30A5,5,0,0,1,25,35Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="1" y="1" width="2" height="34" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="16" cy="18" r="2" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M21.25,21A6.1,6.1,0,0,1,16,24a6,6,0,0,1,0-12,6.1,6.1,0,0,1,5.25,3" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="18" y1="18" x2="23" y2="18" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="M26,42H38a4,4,0,0,0,4-4V35" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="31 47 26 42 31 37" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

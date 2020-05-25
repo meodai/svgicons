@@ -1,0 +1,7 @@
+<svg id="rechtliche-kundeninformation-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>rechtliche-kundeninformation-pikto-form</title>
+  <g>
+    <path d="M31,0H5.25V48h37.5V11.25ZM41.25,46.5H6.75V1.5H29.5V12.75H41.25Z" fill="#003cb4"/>
+    <path d="M24,19.75A2.25,2.25,0,0,1,26.25,22h1.5a3.75,3.75,0,1,0-6,3A3.74,3.74,0,0,0,24,31.75,2.25,2.25,0,1,1,21.75,34h-1.5a3.75,3.75,0,1,0,6-3A3.74,3.74,0,0,0,24,24.25a2.25,2.25,0,0,1,0-4.5Zm0,6A2.25,2.25,0,1,1,21.75,28,2.25,2.25,0,0,1,24,25.75Z" fill="#003cb4"/>
+  </g>
+</svg>

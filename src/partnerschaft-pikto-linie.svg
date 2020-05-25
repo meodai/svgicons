@@ -1,0 +1,10 @@
+<svg id="partnerschaft-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>partnerschaft-pikto-linie</title>
+  <path d="M21,33.5c2.16-2.31,5.44-4,11-4,14.89,0,15.25,13.25,15.25,13.25H30" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M20.5,13.46A11.5,11.5,0,1,1,32,25a10.78,10.78,0,0,1-6.75-2.25" fill="none" stroke="#003cb4" stroke-miterlimit="3" stroke-width="1.5"/>
+  <path d="M32,2c-5.15,0-10.35,4-11.25,9.25,4.23-.51,7.48-2.67,9-6.5,1.48,5.4,5.88,8.5,13.75,8.5A11.32,11.32,0,0,0,32,2Z" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="3" stroke-width="1.5"/>
+  <path d="M43.5,14.25A11.69,11.69,0,0,1,38,23.5h5.5V13.7" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M.75,46.25S.69,33,15.5,33a21.73,21.73,0,0,1,4,.25c10.88,2.11,10.75,13,10.75,13Z" fill="none" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M26.75,17A11.46,11.46,0,0,1,15.5,28.5,11.46,11.46,0,0,1,4.25,17,11,11,0,0,1,15.5,6,11,11,0,0,1,26.75,17Z" fill="none" stroke="#00bec8" stroke-miterlimit="3" stroke-width="1.5"/>
+  <path d="M15,6C9.32,6,5.2,10,4.5,15.5A20.35,20.35,0,0,0,12,17a20.8,20.8,0,0,0,10.5-2.5,4.86,4.86,0,0,0,4,2.5C26.48,10.83,21.15,6,15,6Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

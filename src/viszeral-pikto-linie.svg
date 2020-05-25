@@ -1,0 +1,6 @@
+<svg id="viszeral-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>viszeral-pikto-linie</title>
+  <circle cx="24" cy="24" r="14" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M47,24S36.15,38,24,38,1,24,1,24,11.85,10,24,10,47,24,47,24Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M30,24.75a3.54,3.54,0,0,0-5-5l-1,1-1-1a3.54,3.54,0,0,0-5,5l6,6Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

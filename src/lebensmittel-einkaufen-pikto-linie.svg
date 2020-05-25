@@ -1,0 +1,11 @@
+<svg id="lebensmittel-einkaufen-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>lebensmittel-einkaufen-pikto-linie</title>
+  <path d="M25,16a8,8,0,0,0-5-3.75V1H16V12.25A8,8,0,0,0,11,16Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="30.75" y1="9" x2="35" y2="9" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="28" y1="12" x2="33" y2="12" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M37.25,16l4.5-10c.52-1.12-.6-2.25-2-2C29.7,5.81,26,16,26,16" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <rect x="8" y="16" width="32" height="31" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="16" cy="24.25" r="0.75" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <circle cx="32" cy="24.25" r="0.75" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M16,25v2a8,8,0,0,0,16,0V25" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

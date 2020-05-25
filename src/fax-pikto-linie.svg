@@ -1,0 +1,8 @@
+<svg id="fax-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fax-pikto-linie</title>
+  <path d="M23,29H47V1H23Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M1,14.75C1,33.09,14.91,47,33.25,47l1.5-7.5L26.5,36.75,21,38.5C16.19,37.19,10.86,31.85,9.5,27L11,21.5,9.5,13Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="29" y1="9" x2="41" y2="9" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="29" y1="19" x2="41" y2="19" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="29" y1="14" x2="39" y2="14" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

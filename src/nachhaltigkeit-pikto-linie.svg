@@ -1,0 +1,6 @@
+<svg id="nachhaltigkeit-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>nachhaltigkeit-pikto-linie</title>
+  <line x1="23.75" y1="48" x2="23.75" y2="29.75" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M17,14.5A15.7,15.7,0,0,0,1,13,16.24,16.24,0,0,0,23.75,29.75,17,17,0,0,0,17,14.5Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M31.5,5.5c4.15-4.19,9.67-5.28,15-4.25a16,16,0,0,1-4,15.5,15.56,15.56,0,0,1-15.25,4A15.81,15.81,0,0,1,31.5,5.5Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="wein-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>wein-pikto-linie</title>
+  <line x1="35" y1="33" x2="35" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="29" y1="47" x2="41" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M43,25a8,8,0,0,1-16,0l1-7H42Z" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M11,1h4V14.25A8,8,0,0,1,21,22V47H5V22a8.19,8.19,0,0,1,6-7.75Z" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

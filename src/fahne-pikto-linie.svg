@@ -1,0 +1,6 @@
+<svg id="fahne-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>fahne-pikto-linie</title>
+  <polygon points="12 3.25 33 29 12 29 12 3.25" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line y1="47" x2="47" y2="47" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="11 47 11 1 46 1 38.25 15.25 46 29.5 11 29.5" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>

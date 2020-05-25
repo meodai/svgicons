@@ -1,0 +1,7 @@
+<svg id="info-1-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>info-1-pikto-linie</title>
+  <path d="M33.75,40.25,40,46V40.25a7,7,0,0,0,7-7V23a7,7,0,0,0-7-7H33.25s1.58,6.21-5.75,9c-3.6,1.37-12.5.5-12.5.5v7.75c0,3.85,4.15,7,8,7Z" fill="#00bec8" stroke="#00bec8" stroke-width="1.5"/>
+  <path d="M14.25,25.25,8,31V25.25a7,7,0,0,1-7-7V8A7,7,0,0,1,8,1H26a7,7,0,0,1,7,7V18.25c0,3.85-4.15,7-8,7Z" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="17" y1="6" x2="17" y2="7.5" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+  <line x1="17" y1="8.5" x2="17" y2="18.5" fill="none" stroke="#003cb4" stroke-width="1.5"/>
+</svg>

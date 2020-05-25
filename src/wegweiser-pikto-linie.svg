@@ -1,0 +1,9 @@
+<svg id="wegweiser-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>wegweiser-pikto-linie</title>
+  <g>
+    <line x1="24.25" y1="16" x2="24.25" y2="48" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line x1="24.25" x2="24.25" y2="5" fill="#003cb4" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polygon points="7.5 33 40 33 44.5 27.5 40 22 7.5 22 7.5 33" fill="#00bec8" stroke="#00bec8" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polygon points="40 16 8.5 16 4 10.5 8.5 5 40 5 40 16" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="checkliste-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>checkliste-pikto-form</title>
+  <g>
+    <polygon points="15.46 26.4 13.28 24.22 12.22 25.28 15.54 28.6 21.31 21.99 20.19 21.01 15.46 26.4" fill="#003cb4"/>
+    <rect x="24" y="23.25" width="14" height="1.5" fill="#003cb4"/>
+    <rect x="24" y="26.5" width="11.25" height="1.5" fill="#003cb4"/>
+    <path d="M31.75.25H6.25v47.5h37.5V11.25Zm10.5,46H7.75V1.75h22.5v11h12Z" fill="#003cb4"/>
+    <polygon points="15.46 38.9 13.28 36.72 12.22 37.78 15.54 41.1 21.31 34.49 20.19 33.51 15.46 38.9" fill="#003cb4"/>
+    <rect x="24" y="35.75" width="14" height="1.5" fill="#003cb4"/>
+    <rect x="24" y="39" width="11.25" height="1.5" fill="#003cb4"/>
+  </g>
+</svg>

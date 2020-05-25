@@ -1,0 +1,5 @@
+<svg id="drei-pikto" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>drei-pikto-linie</title>
+  <polyline points="20 17 28 17 28 24 20 24" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polyline points="28 24 28 31 20 31" fill="none" stroke="#003cb4" stroke-miterlimit="10" stroke-width="1.5"/>
+</svg>
