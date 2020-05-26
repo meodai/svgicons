@@ -4,8 +4,8 @@ const SVGO = require('svgo');
 const currentIcons = require('./icons.json');
 const currentIconNames = Object.keys(currentIcons.icons);
 
-const mainColor = /#003cb4/g;
-const highlightColor = /#00bec8/g;
+const mainColor = /#003cb4/gi;
+const highlightColor = /#00bec8/gi;
 
 // svgo . --pretty --enable removeDimensions --enable removeStyleElement --disable=removeViewBox
 
